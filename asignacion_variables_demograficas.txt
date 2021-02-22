@@ -1,0 +1,19 @@
+======================
+Variables demográficas
+======================
+
+- Género
+
+- Edad
+
+- Tipo_Hogar = ¿Cuál de las siguientes opciones se corresponde con su hogar? 
+- Tipo_Hogar_2 = Por favor, indica la edad de cada una de las personas menores de edad que viven en su casa
+
+- Tipo_Vivienda = ¿Cómo describiría su vivienda?
+- Tipo_Vivienda_3 = Aproximadamente, ¿cuántos metros cuadrados tiene su vivienda?
+
+- Estado_Laboral = Por favor, indique su estado laboral en la actualidad.
+
+- Trabajo_Esencial = ¿Pertenece su trabajo a alguno de los servicios considerados como esenciales?
+
+- Ingreso_Neto_Mensual = ¿Cuál de las siguientes categorías representa el ingreso neto mensual de todos los miembros de su casa?
