@@ -14,3 +14,6 @@ Para ejecutar el proyecto, se puede lanzar directamente NetLogo y abrir el archi
 ## Autores ✒️
 
 * **Manuel Seijas Carpente** - *Trabajo Inicial* - [manuseijas](https://github.com/manuseijas)
+* **Bertha María Guijarro Berdiñas**
+* **Amparo Alonso Betanzos**
+* **Alejandro Rodríguez Arias**
